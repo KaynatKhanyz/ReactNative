@@ -4,6 +4,7 @@ import { Text,View,StyleSheet,Button, Alert, TouchableOpacity , Image} from "rea
 const MyButton = () =>{
     return(
         <View>
+        <Text style={styles.textStlye}>I'm button</Text>
     <Text style={styles.textStlye}>I'm button</Text>
     <Button
     disabled
